@@ -10,8 +10,8 @@ I've been a disputes lawyer, startup do-everythinger, and product and growth man
 - ⚖️ Disputes lawyer
 
 ### Find me online
-[<img align='left' alt='LinkedIn' src='https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/linkedin.svg' height='22' width='22'>][linkedin]
 [<img align='left' alt='andrelow.com' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' height='22' width='22'>][website]
+[<img align='left' alt='LinkedIn' src='https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/linkedin.svg' height='22' width='22'>][linkedin]
 <br>
 
 ### Technologies and tools
@@ -24,6 +24,7 @@ I've been a disputes lawyer, startup do-everythinger, and product and growth man
 ![](https://img.shields.io/badge/Shell-Fish-informational?style=flat&logo=Fish&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
 
 [website]: https://www.andrelow.com
 [linkedin]: https://www.linkedin.com/in/andrelow/
