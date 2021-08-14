@@ -9,6 +9,12 @@ I've been a disputes lawyer, startup do-everythinger, and product and growth man
 - 🎛️ Product manager
 - ⚖️ Disputes lawyer
 
+### Find me online
+[<img align='left' alt='LinkedIn' src='https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/linkedin.svg' height='22' width='22'>][linkedin]
+[<img align='left' alt='andrelow.com' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' height='22' width='22'>][website]
+<br>
+
+### Technologies and tools
 ![](https://img.shields.io/badge/OS-Ubuntu%20on%20WSL-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows%2011-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&logoColor=white&color=2bbc8a)
@@ -18,3 +24,6 @@ I've been a disputes lawyer, startup do-everythinger, and product and growth man
 ![](https://img.shields.io/badge/Shell-Fish-informational?style=flat&logo=Fish&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+
+[website]: https://www.andrelow.com
+[linkedin]: https://www.linkedin.com/in/andrelow/
