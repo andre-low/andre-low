@@ -3,7 +3,7 @@
 I've been a disputes lawyer, startup do-everythinger, and product and growth manager. I now develop and nurture startup ecosystems in the Asia Pacific region for Amazon Web Services—working with early stage companies to accelerate their time to market by leveraging the power of the cloud.
 
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/amazonaws.svg' height='16' width='16'> Technical Program Manager at AWS
-- :singapore: Based in Singapore
+- <img src='https://lipis.github.io/flag-icon-css/flags/4x3/sg.svg' height='16' width='16'> Based in Singapore
 - ⛷️ Love skiing
 - 🏙️ Community leader
 - 🎛️ Product manager
