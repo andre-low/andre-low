@@ -21,6 +21,7 @@ I've been a disputes lawyer, startup do-everythinger, and product and growth man
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Terminal-Windows%20Terminal-informational?style=flat&logo=Windows%20Terminal&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Terminal-iTerm2-informational?style=flat&logo=iTerm2&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Fish-informational?style=flat&logo=Fish&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
