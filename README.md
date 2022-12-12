@@ -4,7 +4,7 @@ I've been a disputes lawyer, and a product and growth manager in technology comp
 
 Welcome to the home of my scripting side projects.
 
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/amazonaws.svg' height='16' width='16'> Technical Program Manager at AWS
+- <img src='https://www.bcg.com/favicon.ico' height='16' width='16'> Consultant at BCG
 - 🇸🇬 Based in Singapore
 - ⛷️ Love skiing
 - 🏙️ Community leader
