@@ -1,6 +1,8 @@
 ## Hello, name's Andre 👋
 
-I've been a disputes lawyer, startup do-everythinger, and product and growth manager. I now develop and nurture startup ecosystems in the Asia Pacific region for Amazon Web Services—working with early stage companies to accelerate their time to market by leveraging the power of the cloud.
+I've been a disputes lawyer, and a product and growth manager in technology companies large and small. I am now a Consultant with the Boston Consulting Group.
+
+Welcome to the home of my scripting side projects.
 
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/amazonaws.svg' height='16' width='16'> Technical Program Manager at AWS
 - 🇸🇬 Based in Singapore
