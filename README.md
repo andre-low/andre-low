@@ -4,7 +4,8 @@ I've been a disputes lawyer, and a product and growth manager in technology comp
 
 Welcome to the home of my scripting side projects.
 
-- <img src='https://www.bcg.com/favicon.ico' height='16' width='16'> Consultant at BCG
+- Fintech product manager
+- <img src='https://www.bcg.com/favicon.ico' height='16' width='16'> Former management consultant at BCG
 - 🇸🇬 Based in Singapore
 - ⛷️ Love skiing
 - 🏙️ Community leader
