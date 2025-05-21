@@ -5,12 +5,10 @@ I've been a disputes lawyer, strategy consultant, and big-tech guy. I am now a S
 Welcome to the home of my scripting side projects.
 
 - Fintech product manager
-- <img src='https://www.bcg.com/favicon.ico' height='16' width='16'> Former management consultant at BCG
 - 🇸🇬 Based in Singapore
-- ⛷️ Love skiing
-- 🏙️ Community leader
-- 🎛️ Product manager
-- ⚖️ Disputes lawyer
+- ⛷️ Love skiing, Lego, and tinkering with stuff
+- <img src='https://www.bcg.com/favicon.ico' height='16' width='16'> Former management consultant at BCG
+- ⚖️ Former disputes lawyer
 
 ### Find me online
 [<img align='left' alt='andrelow.sg' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' height='22' width='22'>][website]
