@@ -8,6 +8,7 @@ Welcome to the home of my scripting side projects.
 - 🇸🇬 Based in Singapore
 - ⛷️ Love skiing, Lego, and tinkering with stuff
 - <img src='https://www.bcg.com/favicon.ico' height='16' width='16'> Former management consultant at BCG
+- <img src='https://aws.amazon.com/favicon.ico' height='16' width='16'> Former AWS
 - ⚖️ Former disputes lawyer
 
 ### Find me online
