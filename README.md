@@ -1,6 +1,6 @@
 ## Hello, name's Andre 👋
 
-I've been a disputes lawyer, and a product and growth manager in technology companies large and small. I am now a Consultant with the Boston Consulting Group.
+I've been a disputes lawyer, strategy consultant, and big-tech guy. I am now a Staff Product Manager in a global fintech.
 
 Welcome to the home of my scripting side projects.
 
@@ -13,7 +13,7 @@ Welcome to the home of my scripting side projects.
 - ⚖️ Disputes lawyer
 
 ### Find me online
-[<img align='left' alt='andrelow.com' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' height='22' width='22'>][website]
+[<img align='left' alt='andrelow.sg' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' height='22' width='22'>][website]
 [<img align='left' alt='LinkedIn' src='https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/linkedin.svg' height='22' width='22'>][linkedin]
 <br>
 
@@ -30,5 +30,5 @@ Welcome to the home of my scripting side projects.
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
 
-[website]: https://www.andrelow.com
+[website]: https://www.andrelow.sg
 [linkedin]: https://www.linkedin.com/in/andrelow/
