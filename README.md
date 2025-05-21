@@ -13,8 +13,6 @@ Welcome to the home of my scripting side projects.
 
 ### Find me online
 [<img align='left' alt='andrelow.sg' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' height='22' width='22'>][website]
-[<img align='left' alt='LinkedIn' src='https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/linkedin.svg' height='22' width='22'>][linkedin]
-<br>
 
 ### Technologies and tools
 ![](https://img.shields.io/badge/OS-Ubuntu%20on%20WSL-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
