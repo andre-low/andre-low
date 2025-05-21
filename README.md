@@ -11,7 +11,6 @@ Welcome to the home of my scripting side projects.
 - <img src='https://aws.amazon.com/favicon.ico' height='16' width='16'> Former AWS
 - ⚖️ Former disputes lawyer
 
-### Technologies and tools
 ![](https://img.shields.io/badge/OS-Ubuntu%20on%20WSL-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows%2011-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&logoColor=white&color=2bbc8a)
